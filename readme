@@ -1,8 +1,20 @@
 # AttendanceSystem
 
-A simple Java project setup for testing.
+This project was created as part of my Java learning session.  
+The main objective was to **set up a clean Java project structure, verify JDK/Git installation, build a simple "Welcome" application, and push it to GitHub through a Pull Request**.  
 
-## Steps to Compile
+---
+
+## 1. Environment Setup
+
+Before writing any code, I ensured my development environment was properly configured.
+
+### JDK Verification
+Checked if Java and the Java compiler (javac) are installed:
 ```bash
-javac src/com/school/Main.java
+java -version
+javac -version
+
+
+
 
