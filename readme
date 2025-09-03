@@ -1,0 +1,8 @@
+# AttendanceSystem
+
+A simple Java project setup for testing.
+
+## Steps to Compile
+```bash
+javac src/com/school/Main.java
+
